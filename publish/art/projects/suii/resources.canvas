@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4ae30ee36657a508","type":"link","url":"https://www.gutenberg.org/files/28096/28096-h/28096-h.htm#hand","x":-1120,"y":-80,"width":400,"height":400},
+		{"id":"6d66802de2c494f5","type":"link","url":"https://www.gutenberg.org/files/6130/old/6130-pdf.pdf","x":-1520,"y":-80,"width":400,"height":400},
+		{"id":"c611d3d36002b927","type":"link","url":"file:///C:/Users/nitro/Downloads/The_Prose_Edda_Penguin_Classics.pdf","x":-1120,"y":320,"width":400,"height":400},
+		{"id":"35d8ec636f31efbe","type":"link","url":"https://www.gutenberg.org/cache/epub/2435/pg2435-images.html","x":-1120,"y":-483,"width":400,"height":400},
+		{"id":"3a40c3e84f3fb0c1","type":"link","url":"http://www.yorku.ca/inpar/nibelung_armour.pdf","x":-1520,"y":-483,"width":400,"height":400},
+		{"id":"a96630a98d0697b5","type":"link","url":"https://www.norron-mytologi.info/diverse/ThorpeThePoeticEdda.pdf","x":-1520,"y":320,"width":400,"height":400},
+		{"id":"6009e5e7895fa6ed","type":"link","url":"https://www.theoi.com/Titan/TitanPrometheus.html","x":-1920,"y":-480,"width":400,"height":400},
+		{"id":"8b0f03126f43fbd3","type":"link","url":"https://ia801301.us.archive.org/12/items/cu31924026852917/cu31924026852917.pdf","x":-1920,"y":-80,"width":400,"height":400},
+		{"id":"6a6c22323d876258","type":"link","url":"http://www.mabinogi.net/pwyll.htm","x":-1920,"y":320,"width":400,"height":400},
+		{"id":"34a3761c9ad6fb6b","type":"text","text":"http://www.mabinogi.net/pwyll.htm\n\nhttps://ia801301.us.archive.org/12/items/cu31924026852917/cu31924026852917.pdf\n\nhttps://www.theoi.com/Titan/TitanPrometheus.html\n\nhttps://www.norron-mytologi.info/diverse/ThorpeThePoeticEdda.pdf\n\nhttp://www.yorku.ca/inpar/nibelung_armour.pdf\n\nhttps://www.gutenberg.org/cache/epub/2435/pg2435-images.html\n\nfile:///C:/Users/nitro/Downloads/The_Prose_Edda_Penguin_Classics.pdf\n\nhttps://www.gutenberg.org/files/6130/old/6130-pdf.pdf\n\nhttps://www.gutenberg.org/files/28096/28096-h/28096-h.htm#hand\n\n","x":-620,"y":-480,"width":250,"height":838}
+	],
+	"edges":[]
+}

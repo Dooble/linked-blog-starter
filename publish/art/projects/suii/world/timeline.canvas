@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"96b08fc0c51d67bd","x":40,"y":400,"width":250,"height":60,"type":"file","file":"the creation of the earth.md"},
+		{"id":"9d6e99f810256fe3","type":"file","file":"timeline of suihara.md","x":-1040,"y":-340,"width":420,"height":2850},
+		{"id":"6c3252873903fdaa","type":"text","text":"first age - creation ","x":-560,"y":-340,"width":250,"height":60,"color":"5"},
+		{"id":"2a841e83ef4b3331","type":"file","file":"miscellaneous notes.md","x":-1040,"y":-800,"width":420,"height":400},
+		{"id":"e9c195aa004c5c42","type":"text","text":"beginning of history ","x":-560,"y":740,"width":250,"height":60},
+		{"id":"56bce2680d08d2ff","type":"text","text":"","x":-560,"y":1960,"width":250,"height":60},
+		{"id":"a1e655552ab318e3","type":"text","text":"","x":-560,"y":2080,"width":250,"height":60},
+		{"id":"8185bec6c5534b3f","type":"text","text":"","x":-560,"y":2200,"width":250,"height":60},
+		{"id":"1948e0b613875114","type":"text","text":"the third age , age of heroes ","x":-560,"y":1350,"width":250,"height":60,"color":"5"},
+		{"id":"65a11caf6ee006df","type":"text","text":"the gods recind unto their birthplace and build paridise","x":-560,"y":1590,"width":250,"height":90},
+		{"id":"059c55e2da4d1301","type":"text","text":"second gods are born ","x":-560,"y":860,"width":250,"height":60},
+		{"id":"0bb4c8601e2aa1e9","type":"text","text":"the silver one is born in gaia's cradle ","x":-560,"y":1110,"width":250,"height":60},
+		{"id":"55b22711d1eab2c0","type":"text","text":"fire seeps into the world and gives mortals souls","x":-560,"y":520,"width":250,"height":60},
+		{"id":"8823c0aee180ebcd","type":"text","text":"the gods begin to make the world","x":-560,"y":400,"width":250,"height":60},
+		{"id":"95bb893fa2adf43f","type":"text","text":"the second age - age of gods ","x":-560,"y":620,"width":250,"height":60,"color":"5"},
+		{"id":"29f33662b3da70bf","type":"text","text":"gods spend most of their time with the earth ","x":-260,"y":620,"width":250,"height":60},
+		{"id":"319541f312dfdf46","type":"text","text":"gods make spirits and the feywild ","x":-260,"y":740,"width":250,"height":60},
+		{"id":"1e4c9a70fe87dc33","type":"text","text":"many demigods come about","x":40,"y":740,"width":250,"height":60},
+		{"id":"0feef66963cb3061","type":"text","text":"the first kingdom is made by the heir of the white wolf","x":-560,"y":960,"width":250,"height":95},
+		{"id":"d49d110ed290ac64","type":"text","text":"the silent rids the earth of flame ( in part) turning man and god alike to mindless beast","x":-560,"y":1440,"width":250,"height":120},
+		{"id":"75a84322827cbd3d","type":"text","text":"heros begin to exist (non demigod powerful mortals ) with the aide of the silver one ","x":-560,"y":1200,"width":250,"height":120},
+		{"id":"1a978c72173110bc","type":"text","text":"ex nhilo - chaos  ","x":-560,"y":-214,"width":250,"height":60},
+		{"id":"fb1572601794a78e","type":"text","text":"the flame of creation wakes in chaos ","x":-560,"y":-94,"width":250,"height":60},
+		{"id":"a987fa350b002e6d","type":"text","text":"she travels millennia to the heart of chaos ","x":-560,"y":26,"width":250,"height":60},
+		{"id":"dacde271cd5c5e49","type":"text","text":"they meet in the heart and dance ","x":-560,"y":146,"width":250,"height":60},
+		{"id":"3a1fcc4e92731217","type":"text","text":"chaos steals the flame of creation to carve the gods","x":-560,"y":266,"width":250,"height":74},
+		{"id":"5ed1cc152d2f7ac8","type":"text","text":"tktk of the dwarven kings orders the great labyrinth to be made and for the beasts with eyes of black to be slain , creating the monsterslayers ","x":-560,"y":1720,"width":250,"height":180},
+		{"id":"3bad332644037e9f","type":"text","text":"the moon spirit makes itself known to linrahel","x":-560,"y":2320,"width":250,"height":60},
+		{"id":"c627c7df5b5e34a2","type":"text","text":"","x":-560,"y":2440,"width":250,"height":60},
+		{"id":"54b95d15178b2dd1","x":-260,"y":26,"width":250,"height":60,"type":"file","file":"geography of chaos.md"},
+		{"id":"3f360505090878a1","x":-260,"y":266,"width":250,"height":74,"type":"file","file":"the creation of the gods.md"}
+	],
+	"edges":[
+		{"id":"1f6b633b89818751","fromNode":"95bb893fa2adf43f","fromSide":"bottom","toNode":"319541f312dfdf46","toSide":"top"},
+		{"id":"81bfaaf20a34b49d","fromNode":"8823c0aee180ebcd","fromSide":"right","toNode":"29f33662b3da70bf","toSide":"top"},
+		{"id":"df60c14e2a65601b","fromNode":"29f33662b3da70bf","fromSide":"bottom","toNode":"1e4c9a70fe87dc33","toSide":"top"}
+	]
+}

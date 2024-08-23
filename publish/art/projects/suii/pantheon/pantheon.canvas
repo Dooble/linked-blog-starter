@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"f01ce2170074ba17","type":"text","text":"wolf ","x":640,"y":-280,"width":250,"height":60},
+		{"id":"1a580261ff5ba780","type":"text","text":"mother (of hommunculi)","x":-580,"y":-280,"width":250,"height":60},
+		{"id":"349409f37a537419","type":"text","text":"maiden [flower]","x":60,"y":-280,"width":250,"height":60},
+		{"id":"ddbe6ed0625314cc","type":"text","text":"moon spirit ","x":-1180,"y":-280,"width":250,"height":60},
+		{"id":"aaadc210be4d98b5","type":"text","text":"brought flesh to the world ","x":-1578,"y":-220,"width":250,"height":60},
+		{"id":"469dd1b1c3f536d8","type":"text","text":"[[outer god ]]","x":-1578,"y":-120,"width":250,"height":60},
+		{"id":"89057cbce3c2bdd2","type":"text","text":"control over water ","x":-1578,"y":-20,"width":250,"height":60},
+		{"id":"2fba49977c2fc7fd","type":"text","text":"2 aspects ","x":-1578,"y":80,"width":250,"height":60},
+		{"id":"7eaec692bbddfabe","type":"text","text":"stagnant waters / blood moon","x":-1748,"y":200,"width":295,"height":60},
+		{"id":"ad424a9372b26671","type":"text","text":"flowing water/ moon lake ","x":-1453,"y":200,"width":250,"height":60},
+		{"id":"648a2d147588b231","type":"text","text":"- first god \n- clossest to chaos \n- stays in the kiln \n- is genderless \n-  all beasts of the great labyrinth share in their body and will oneday return unto it \n- they are the greatest of the alchemists of the world ","x":-580,"y":-200,"width":250,"height":320},
+		{"id":"6293c3d88d79f027","type":"text","text":"#### geneology\n###### children \n[[the silver one|the craftsman]]","x":-860,"y":-200,"width":250,"height":220},
+		{"id":"519fd7dcd8b91d69","type":"text","text":"made from a tooth fell from the maw of one of chaos' head, the white wolf is a god of conquest and power earning them the epithet aria , however they remain to be honourable and noble in their constitution ","x":640,"y":-200,"width":320,"height":180},
+		{"id":"f9cdf956845a8669","type":"text","text":"this is the aspect of the moon lady who possesed the lover of orkara in the  battle of the moors. they  are a benevolent spirit who will aid those who ask , and they are pure - cleansing the wastes of rot from all that they touch. their aspect is of the full moon and they are strongest when it is pale blue over clear skies  ","x":-1420,"y":300,"width":300,"height":520},
+		{"id":"9f309b0a47967e19","type":"text","text":"this is the twilight moon , an envoy of the outter gods who turn mortal mids to madness \n/* refer to bloodbourne for inspo when lost * / \nthe stagnant waters of rot twist the world unto death and decay . their aspect is of the moons' shadow , and the dark red mooon of crimson skies ","x":-1740,"y":300,"width":250,"height":520},
+		{"id":"cdd00ab6c3ce2f47","x":-120,"y":-200,"width":250,"height":110,"type":"text","text":"sister of the great mother , influenced by the moon spirit considerably "},
+		{"id":"4a7ec12a22d73d8c","x":-580,"y":140,"width":250,"height":280,"type":"text","text":"the great mother is quite involved in the creation of the world , but they often work alone leading to many of their creations to become secrets even to the gods and creating a mystery about much of the world "}
+	],
+	"edges":[
+		{"id":"8a2bfa5594a136c0","fromNode":"ddbe6ed0625314cc","fromSide":"bottom","toNode":"aaadc210be4d98b5","toSide":"top"},
+		{"id":"d4c72f45b2a18a67","fromNode":"2fba49977c2fc7fd","fromSide":"bottom","toNode":"ad424a9372b26671","toSide":"top"},
+		{"id":"57fa55ab022de1b2","fromNode":"2fba49977c2fc7fd","fromSide":"bottom","toNode":"7eaec692bbddfabe","toSide":"top"},
+		{"id":"c42cb87f376405d5","fromNode":"1a580261ff5ba780","fromSide":"bottom","toNode":"6293c3d88d79f027","toSide":"top"}
+	]
+}

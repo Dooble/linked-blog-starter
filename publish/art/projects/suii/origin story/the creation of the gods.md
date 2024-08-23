@@ -1,0 +1,7 @@
+---
+author: self
+tags:
+  - myth
+---
+
+.
